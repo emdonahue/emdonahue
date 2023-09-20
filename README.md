@@ -1,2 +1,3 @@
 I do research on constraint and probabilistic logic programming languages, with eventual applications to HCI and NLP. This work is currently best represented by my Chez Scheme implementation of miniKanren, [aiKanren](https://github.com/emdonahue/aiKanren), which is a port and extension of the earlier SmallTalk codebase, [SmallKanren](https://github.com/emdonahue/SmallKanren).
+
 I also release tools for textmining, which I use in my digital historical work, including commandline tools for working with tabular text data ([asv](https://github.com/emdonahue/asv)), text-centric vectors and matrices ([svec](https://github.com/emdonahue/svec)), and datascience pipeline provenance management ([prov](https://github.com/emdonahue/prov)).
